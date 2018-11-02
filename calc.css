@@ -1,0 +1,59 @@
+body{
+    margin: 70px;
+    color:aqua;
+    background-color: black;
+}
+
+h1{
+    color:mediumseagreen;
+    text-align: center;
+}
+
+input{
+    width: 50%;
+    height: 50%;
+    margin: 20px;
+    padding: 10px;
+}
+
+/*form{
+    background-color:#dddd;
+    border: solid 3px;
+    width: 500px;
+    padding: 50px;
+}*/
+
+table ,td{
+    width: 20px;
+    bottom: 10%;
+    background-color:rgb(6, 235, 252); 
+    border: 10px groove;
+    text-decoration-style: double;
+    margin-top: auto;
+}
+
+
+
+footer{
+    color:burlywood;
+    height: 40px;
+    text-align: center;
+    font-size: 30px;
+}
+
+/*calculator{
+    background-color: aquamarine;
+    width: 400px;
+    right: 30%;
+}*/
+
+/*output{
+    width: 100px;
+    height: 30px;
+    background-color: white;
+    text-align: center;
+}*/
+#calculator{
+padding-left: 400px;
+}
+
